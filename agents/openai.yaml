@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Skill Audit Enhanced"
+  short_description: "Audit, refine, and release Codex skill packages"
+  default_prompt: "Use $project-skill-audit-enhanced to inspect project skills, identify evidence-backed issues, and produce a prioritized release plan."
